@@ -23,7 +23,7 @@
     [super viewDidLoad];
     
     //设置tabBar的背景色
-    [self.tabBar setBarTintColor:[UIColor blackColor]];
+    [self.tabBar setBarTintColor:[UIColor whiteColor]];
     
     [self initTabBarController];
 }
